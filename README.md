@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning GRC, Infosec and Python.
 - 💞️ I’m looking to collaborate on open source projects that help people :)
 - 📫 Connect with me on LinkedIn --> https://www.linkedin.com/in/cwhitlock95
+- Weekly GRC Study Hall -- https://studygrc.notion.site/
